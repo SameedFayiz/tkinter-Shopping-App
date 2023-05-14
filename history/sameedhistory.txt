@@ -1,0 +1,22 @@
+Product name:mango, Quantity:3
+Product name:apple, Quantity:3
+Total Price:730, Order Time:Sat Jul 16 04:17:54 2022
+Product name:pear, Quantity:45
+Product name:apple, Quantity:66
+Product name:mango, Quantity:77
+Total Price:22330, Order Time:Sat Jul 16 04:29:08 2022
+Product name:mango, Quantity:1
+Product name:tomato, Quantity:2
+Total Price:320, Order Time:Sat Jul 16 05:34:07 2022
+Product name:mango, Quantity:3
+Product name:fanta, Quantity:3
+Total Price:790, Order Time:Sat Jul 16 05:45:21 2022
+Product name:tuna, Quantity:5
+Total Price:10100, Order Time:Sun Jul 24 09:31:21 2022
+Product name:tuna, Quantity:1
+Total Price:2100, Order Time:Sun Jul 24 12:42:12 2022
+Product name:mango, Quantity:2000
+Total Price:240100, Order Time:Wed Jul 27 09:54:04 2022
+Product name:banana, Quantity:25
+Product name:fanta, Quantity:5
+Total Price:3150, Order Time:Sun May 14 17:24:36 2023
